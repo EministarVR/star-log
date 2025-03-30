@@ -1,0 +1,45 @@
+Allgemeine Geschäftsbedingungen (AGB)
+für Starlog EXE
+Ein Softwareprodukt von Eministar Dev Group n.e.V.
+
+1. Geltungsbereich
+Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für die Nutzung der Software Starlog EXE (im Folgenden "Software"), die von Eministar Dev Group n.e.V. (im Folgenden "Anbieter") zur Verfügung gestellt wird. Mit der Installation und Nutzung der Software erklären Sie sich mit diesen AGB einverstanden.
+
+2. Vertragsparteien
+Vertragspartner ist der Nutzer der Software und die Eministar Dev Group n.e.V. . 
+
+3. Lizenzvereinbarung
+Der Anbieter gewährt dem Nutzer eine nicht ausschließliche, nicht übertragbare und widerrufliche Lizenz zur Nutzung der Software Starlog EXE zu den Bedingungen dieser AGB. Die Software darf nur für den vorgesehenen Zweck verwendet werden, insbesondere zur Speicherung von Tastatureingaben auf dem Gerät des Nutzers.
+
+4. Funktionsweise der Software
+Die Software dient der Speicherung von Tastatureingaben des Nutzers. Sie zeichnet alle Eingaben auf, die während der Nutzung der Software auf der Tastatur des Nutzers erfolgen. Diese Daten werden lokal gespeichert und können zu Analysezwecken verwendet werden. Eine Übertragung der Daten an den Anbieter erfolgt nicht, sofern dies nicht ausdrücklich in der Datenschutzrichtlinie oder durch eine gesonderte Zustimmung des Nutzers geregelt ist.
+
+5. Nutzung der Software
+Die Software darf nur in Übereinstimmung mit den geltenden Gesetzen verwendet werden. Insbesondere darf die Software nicht für illegale, unethische oder schadhafte Zwecke eingesetzt werden. Der Nutzer verpflichtet sich, keine Eingaben zu machen, die gegen die Rechte Dritter verstoßen oder die Software in einer Art und Weise zu nutzen, die dem Anbieter oder anderen Nutzern Schaden zufügen könnte.
+
+6. Datenschutz
+Der Schutz Ihrer persönlichen Daten ist uns wichtig. Die Software speichert nur Tastatureingaben auf Ihrem lokalen Gerät und überträgt diese nicht an den Anbieter, es sei denn, dies wird ausdrücklich von Ihnen gewünscht oder in der Datenschutzrichtlinie anders geregelt. Weitere Informationen zum Datenschutz finden Sie in unserer [Datenschutzerklärung], die als Teil dieser AGB betrachtet wird.
+
+7. Haftung
+Der Anbieter haftet nicht für Schäden, die aus der Nutzung der Software resultieren, es sei denn, sie beruhen auf Vorsatz oder grober Fahrlässigkeit. Insbesondere übernimmt der Anbieter keine Haftung für Datenverlust oder Schäden, die durch eine unsachgemäße Nutzung der Software entstehen können.
+
+8. Gewährleistung
+Die Software wird "wie sie ist" bereitgestellt. Der Anbieter übernimmt keine Gewährleistung für die Funktionsfähigkeit oder Fehlerfreiheit der Software. Der Nutzer erkennt an, dass keine Software vollkommen fehlerfrei ist und dass der Anbieter nicht für etwaige Mängel oder Störungen verantwortlich ist.
+
+9. Updates und Support
+Der Anbieter behält sich das Recht vor, die Software jederzeit zu aktualisieren oder zu modifizieren. Der Nutzer wird über neue Versionen informiert. Der Anbieter stellt Support für die Software zur Verfügung, wenn dies im Supportvertrag oder in der Lizenzvereinbarung festgelegt ist.
+
+10. Urheberrecht
+Die Software und alle damit verbundenen Rechte, einschließlich Urheberrechte, Markenrechte und andere geistige Eigentumsrechte, verbleiben beim Anbieter. Der Nutzer darf die Software nur im Rahmen der durch diese AGB gewährten Lizenz verwenden. Jegliche Form der Reproduktion, Verbreitung oder Modifikation der Software ohne ausdrückliche schriftliche Genehmigung des Anbieters ist untersagt.
+
+11. Beendigung der Nutzung
+Der Anbieter kann den Zugang zur Software jederzeit und ohne Vorankündigung beenden, wenn der Nutzer gegen diese AGB verstößt. Im Falle einer Beendigung ist der Nutzer verpflichtet, die Software sofort zu deinstallieren und alle Kopien zu löschen.
+
+12. Änderungen der AGB
+Der Anbieter behält sich das Recht vor, diese AGB jederzeit zu ändern. Die Nutzer werden über Änderungen der AGB per E-Mail oder durch einen Hinweis innerhalb der Software informiert. Änderungen werden nach der Benachrichtigung wirksam, es sei denn, der Nutzer widerspricht diesen Änderungen innerhalb eines angemessenen Zeitrahmens.
+
+13. Schlussbestimmungen
+Sollten einzelne Bestimmungen dieser AGB unwirksam oder undurchsetzbar sein, so bleibt die Wirksamkeit der übrigen Bestimmungen davon unberührt. Anstelle der unwirksamen Bestimmung tritt eine solche Regelung, die dem wirtschaftlichen Zweck der unwirksamen Bestimmung möglichst nahekommt.
+
+14. Anwendbares Recht und Gerichtsstand
+Diese AGB unterliegen dem Recht der [deutschen Bundesrepublik]. Für alle Streitigkeiten, die im Zusammenhang mit dieser Software oder diesen AGB entstehen, ist das für den Sitz des Anbieters zuständige Gericht zuständig.
