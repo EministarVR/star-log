@@ -13,6 +13,7 @@ StarLog ist ein **leichtgewichtiges, leistungsstarkes und flexibles Keylogger-To
 ## 🛠 Installation
 ### Windows
 > 1️⃣ Lade die neueste Version von GitHub Releases herunter.
+
 > 2️⃣ Entpacke die ZIP-Datei und öffne die .exe als Administrator.
 
 ## 🔒 Sicherheit & Datenschutz
